@@ -1,0 +1,28 @@
+body {
+background-color:  #0E94D1;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.main{
+
+background-color: white;
+width:700px;
+padding:10px;
+padding:50;
+
+margin:auto
+}
+
+h1{
+text-align: center;
+
+font-family: 'Dancing Script', cursive;
+}
+
+h2{
+
+    font-family: 'Ledger' , serif;
+
+
+}
